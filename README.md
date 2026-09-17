@@ -48,6 +48,7 @@ This project provides a simple centralized system for maintaining lost and found
 
 ## Project Structure
 
+```text
 CampusLostAndFound/
 │
 ├── src/
@@ -64,6 +65,7 @@ CampusLostAndFound/
 │
 ├── README.md
 └── statement.md
+```
 Requirements
 Java JDK
 Command Prompt / Terminal
