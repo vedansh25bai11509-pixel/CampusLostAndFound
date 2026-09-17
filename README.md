@@ -66,76 +66,92 @@ CampusLostAndFound/
 ├── README.md
 └── statement.md
 ```
-Requirements
-Java JDK
-Command Prompt / Terminal
+## Requirements
+
+- Java JDK
+- Command Prompt / Terminal
 
 Check Java installation:
 
-java -version
-javac -version
-How to Run
-1. Clone the repository
-git clone https://github.com/vedansh25bai11509-pixel/CampusLostAndFound.git
-2. Open the project folder
-cd CampusLostAndFound
-3. Compile the project
-javac -d out src\*.java
-4. Run the application
-java -cp out Main
+`java -version`
+
+`javac -version`
+
+## How to Run
+
+### 1. Clone the repository
+
+`git clone https://github.com/vedansh25bai11509-pixel/CampusLostAndFound.git`
+
+### 2. Open the project folder
+
+`cd CampusLostAndFound`
+
+### 3. Compile the project
+
+`javac -d out src\*.java`
+
+### 4. Run the application
+
+`java -cp out Main`
 
 The main menu will then be displayed.
 
-Data Storage
+## Data Storage
 
 The application stores item records in:
 
-data/items.txt
+`data/items.txt`
 
 The program loads saved item records when it starts and saves changes while the application is running.
 
-Validation
+## Validation
 
 The application includes basic validation such as:
 
-Empty input is not accepted for required fields.
-Item IDs must be numeric.
-Invalid menu choices are handled.
-Non-existent items cannot be claimed.
-Only found items can be claimed.
-Already returned items cannot be returned again.
-Testing
+- Empty input is not accepted for required fields.
+- Item IDs must be numeric.
+- Invalid menu choices are handled.
+- Non-existent items cannot be claimed.
+- Only found items can be claimed.
+- Already returned items cannot be returned again.
+
+## Testing
 
 The following features were tested:
 
-Lost item reporting
-Found item reporting
-Item ID generation
-Item searching
-Claim requests
-Return status
-Personal reports
-Student profile
-Summary report
-File saving and loading
-Invalid input handling
-Future Enhancements
-Database integration
-Student login and authentication
-Admin dashboard
-Automatic lost/found item matching
-Image upload
-Notifications
-Web or mobile interface
-Student Details
+- Lost item reporting
+- Found item reporting
+- Item ID generation
+- Item searching
+- Claim requests
+- Return status
+- Personal reports
+- Student profile
+- Summary report
+- File saving and loading
+- Invalid input handling
 
-Name: Vedansh Singh Tomar
-Registration Number: 25BAI11509
-Branch: B.Tech CSE (Artificial Intelligence & Machine Learning)
-Year: 2nd Year
-Course: Java Programming
+## Future Enhancements
 
-References
-Java Documentation
-VITyarthi Assignment Guidelines
-Java Programming Course Material
+- Database integration
+- Student login and authentication
+- Admin dashboard
+- Automatic lost/found item matching
+- Image upload
+- Notifications
+- Web or mobile interface
+
+## Student Details
+
+**Name:** Vedansh Singh Tomar  
+**Registration Number:** 25BAI11509  
+**Branch:** B.Tech CSE (Artificial Intelligence & Machine Learning)  
+**Year:** 2nd Year  
+**Course:** Java Programming
+
+## References
+
+- Java Documentation
+- VITyarthi Assignment Guidelines
+- Java Programming Course Material
