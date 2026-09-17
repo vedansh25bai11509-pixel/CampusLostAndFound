@@ -48,7 +48,6 @@ This project provides a simple centralized system for maintaining lost and found
 
 ## Project Structure
 
-```text
 CampusLostAndFound/
 │
 ├── src/
