@@ -1,3 +1,0 @@
-1001|LOST|Earbuds|Personal|Library AB2|16-09-2026|Purple Noise earbuds|Avika|OPEN
-1002|FOUND|Casio Watch|Personal|Library|17-09-2026|Blue Casio watch|Avika|RETURNED
-1003|FOUND|Calculator|Electronics|Library|16-09-2026|Black Casio calculator|Vedansh|CLAIM REQUESTED BY Avika
